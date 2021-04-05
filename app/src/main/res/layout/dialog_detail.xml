@@ -5,7 +5,17 @@
     android:layout_height="match_parent"
     android:orientation="vertical"
     android:padding="10dp">
-
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:text="Input Data"
+        android:textSize="30dp"
+        android:textColor="@color/white"
+        android:textAlignment="center"
+        android:gravity="center_horizontal"
+        android:background="@color/purple_500"
+        android:layout_margin="5dp"
+        ></TextView>
     <EditText
         android:id="@+id/title"
         android:hint="Title"
@@ -21,7 +31,6 @@
     <EditText
         android:id="@+id/des"
         android:hint="Description"
-        android:inputType="textPassword"
         android:layout_width="match_parent"
         android:layout_height="100dp" />
 
