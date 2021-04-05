@@ -8,9 +8,24 @@
   "url" : "https://www.nestle.co.th/sites/g/files/pydnoa486/files/1-kitkat-2021-update.png",
   "description" : "Kit Kat is a chocolate-covered wafer bar confection produced globally by Nestl?."
 },{
-  "title" : "Candy",
+  "title" : "Lollipop",
   "url" : "https://www.engdict.com/data/dict/media/images_public/candy-00084427637318108586136593_normal.png",
-  "description" : "a sweet food made with sugar or other sweeteners, typically formed in small, shaped pieces and flavored with chocolate, fruit, or nuts"
+  "description" : "a flat, rounded candy on the end of a stick."
 }
+,{
+    "title" : "Donut",
+    "url" : "https://upload.wikimedia.org/wikipedia/commons/thumb/a/a5/Glazed-Donut.jpg/220px-Glazed-Donut.jpg",
+    "description" : "a small fried cake of sweetened dough, typically in the shape of a ball or ring."
+  }
+,{
+    "title" : "jelly bean",
+    "url" : "https://dictionary.cambridge.org/images/thumb/jellyb_noun_002_19727.jpg?version=5.0.158",
+    "description" : "Jelly beans are small bean-shaped sugar candies with soft candy shells and thick gel interiors"
+  }
+,{
+    "title" : "Marshmallow",
+    "url" : "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/White_Marshmallows.jpg/1920px-White_Marshmallows.jpg",
+    "description" : "is a type of confectionery that is typically made from sugar, water and gelatin whipped to a solid but soft consistency"
+  }
 ]
 }
